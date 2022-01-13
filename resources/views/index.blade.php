@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>TJAwiki</title>
+    <title>wiki</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@5.8.55/css/materialdesignicons.min.css">
