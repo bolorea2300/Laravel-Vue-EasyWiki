@@ -5,6 +5,7 @@ Laravel+VueによるWikiサイトです。
 - Laravel
 - Vue
 - TinyMCE-Vue
+- Buefy
 
 # UIの参考サイト
 - PukiWiki
@@ -12,3 +13,4 @@ Laravel+VueによるWikiサイトです。
 # 画像
 ![編集ページ](https://raw.githubusercontent.com/bolorea2300/Laravel-Vue-EasyWiki/main/%E7%94%BB%E5%83%8F/1.png)
 ![閲覧ページ](https://raw.githubusercontent.com/bolorea2300/Laravel-Vue-EasyWiki/main/%E7%94%BB%E5%83%8F/2.png)
+![全体](https://raw.githubusercontent.com/bolorea2300/Laravel-Vue-EasyWiki/main/%E7%94%BB%E5%83%8F/3.png)
